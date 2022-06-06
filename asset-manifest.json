@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jackiedong.com/static/css/main.f9bc9588.css",
-    "main.js": "/jackiedong.com/static/js/main.8c690d9a.js",
-    "static/js/787.a2cb61a6.chunk.js": "/jackiedong.com/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo-j.png": "/jackiedong.com/static/media/logo-j.f5c3380c6c63d9f0bfb9.png",
-    "static/media/logo_sub-01.png": "/jackiedong.com/static/media/logo_sub-01.4a7fbc3b2a405b2f94c1.png",
-    "static/media/helvetica-neu.ttf": "/jackiedong.com/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/jackiedong.com/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/jackiedong.com/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/jackiedong.com/index.html",
-    "main.f9bc9588.css.map": "/jackiedong.com/static/css/main.f9bc9588.css.map",
-    "main.8c690d9a.js.map": "/jackiedong.com/static/js/main.8c690d9a.js.map",
-    "787.a2cb61a6.chunk.js.map": "/jackiedong.com/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/website/static/css/main.6e472348.css",
+    "main.js": "/website/static/js/main.cde64e33.js",
+    "static/js/787.a2cb61a6.chunk.js": "/website/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo-j.png": "/website/static/media/logo-j.f5c3380c6c63d9f0bfb9.png",
+    "static/media/logo_sub-01.png": "/website/static/media/logo_sub-01.4a7fbc3b2a405b2f94c1.png",
+    "static/media/helvetica-neu.ttf": "/website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/website/index.html",
+    "main.6e472348.css.map": "/website/static/css/main.6e472348.css.map",
+    "main.cde64e33.js.map": "/website/static/js/main.cde64e33.js.map",
+    "787.a2cb61a6.chunk.js.map": "/website/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9bc9588.css",
-    "static/js/main.8c690d9a.js"
+    "static/css/main.6e472348.css",
+    "static/js/main.cde64e33.js"
   ]
 }
