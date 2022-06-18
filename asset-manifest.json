@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.2edba036.css",
-    "main.js": "/PersonalWebsite/static/js/main.48acefb3.js",
-    "static/js/787.a2cb61a6.chunk.js": "/PersonalWebsite/static/js/787.a2cb61a6.chunk.js",
-    "static/media/DongJackie2024.pdf": "/PersonalWebsite/static/media/DongJackie2024.36dbd3d96df7e7c77477.pdf",
-    "static/media/logo-j.png": "/PersonalWebsite/static/media/logo-j.f5c3380c6c63d9f0bfb9.png",
-    "static/media/logo_sub-01.png": "/PersonalWebsite/static/media/logo_sub-01.4a7fbc3b2a405b2f94c1.png",
-    "static/media/helvetica-neu.ttf": "/PersonalWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/PersonalWebsite/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/PersonalWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/PersonalWebsite/index.html",
-    "main.2edba036.css.map": "/PersonalWebsite/static/css/main.2edba036.css.map",
-    "main.48acefb3.js.map": "/PersonalWebsite/static/js/main.48acefb3.js.map",
-    "787.a2cb61a6.chunk.js.map": "/PersonalWebsite/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.a3e02746.css",
+    "main.js": "/static/js/main.2367f7fa.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "static/media/DongJackie2024.pdf": "/static/media/DongJackie2024.36dbd3d96df7e7c77477.pdf",
+    "static/media/logo-j.png": "/static/media/logo-j.f5c3380c6c63d9f0bfb9.png",
+    "static/media/logo_sub-01.png": "/static/media/logo_sub-01.4a7fbc3b2a405b2f94c1.png",
+    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.a3e02746.css.map": "/static/css/main.a3e02746.css.map",
+    "main.2367f7fa.js.map": "/static/js/main.2367f7fa.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2edba036.css",
-    "static/js/main.48acefb3.js"
+    "static/css/main.a3e02746.css",
+    "static/js/main.2367f7fa.js"
   ]
 }
