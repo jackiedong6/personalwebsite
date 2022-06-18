@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jackiedong.com/static/css/main.c534d989.css",
-    "main.js": "/jackiedong.com/static/js/main.94a3c026.js",
+    "main.js": "/jackiedong.com/static/js/main.5d5ab533.js",
     "static/js/787.a2cb61a6.chunk.js": "/jackiedong.com/static/js/787.a2cb61a6.chunk.js",
     "static/media/DongJackie2024.pdf": "/jackiedong.com/static/media/DongJackie2024.36dbd3d96df7e7c77477.pdf",
     "static/media/logo-j.png": "/jackiedong.com/static/media/logo-j.f5c3380c6c63d9f0bfb9.png",
@@ -11,11 +11,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/jackiedong.com/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/jackiedong.com/index.html",
     "main.c534d989.css.map": "/jackiedong.com/static/css/main.c534d989.css.map",
-    "main.94a3c026.js.map": "/jackiedong.com/static/js/main.94a3c026.js.map",
+    "main.5d5ab533.js.map": "/jackiedong.com/static/js/main.5d5ab533.js.map",
     "787.a2cb61a6.chunk.js.map": "/jackiedong.com/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c534d989.css",
-    "static/js/main.94a3c026.js"
+    "static/js/main.5d5ab533.js"
   ]
 }
