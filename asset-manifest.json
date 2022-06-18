@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jackiedong6/PersonalWebsite~/static/css/main.f6be9173.css",
-    "main.js": "/jackiedong6/PersonalWebsite~/static/js/main.8c102484.js",
-    "static/js/787.a2cb61a6.chunk.js": "/jackiedong6/PersonalWebsite~/static/js/787.a2cb61a6.chunk.js",
-    "static/media/DongJackie2024.pdf": "/jackiedong6/PersonalWebsite~/static/media/DongJackie2024.36dbd3d96df7e7c77477.pdf",
-    "static/media/logo-j.png": "/jackiedong6/PersonalWebsite~/static/media/logo-j.f5c3380c6c63d9f0bfb9.png",
-    "static/media/logo_sub-01.png": "/jackiedong6/PersonalWebsite~/static/media/logo_sub-01.4a7fbc3b2a405b2f94c1.png",
-    "static/media/helvetica-neu.ttf": "/jackiedong6/PersonalWebsite~/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/jackiedong6/PersonalWebsite~/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/jackiedong6/PersonalWebsite~/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/jackiedong6/PersonalWebsite~/index.html",
-    "main.f6be9173.css.map": "/jackiedong6/PersonalWebsite~/static/css/main.f6be9173.css.map",
-    "main.8c102484.js.map": "/jackiedong6/PersonalWebsite~/static/js/main.8c102484.js.map",
-    "787.a2cb61a6.chunk.js.map": "/jackiedong6/PersonalWebsite~/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/jackiedong6/PersonalWebsite/static/css/main.8fd2a10e.css",
+    "main.js": "/jackiedong6/PersonalWebsite/static/js/main.d9a9207d.js",
+    "static/js/787.a2cb61a6.chunk.js": "/jackiedong6/PersonalWebsite/static/js/787.a2cb61a6.chunk.js",
+    "static/media/DongJackie2024.pdf": "/jackiedong6/PersonalWebsite/static/media/DongJackie2024.36dbd3d96df7e7c77477.pdf",
+    "static/media/logo-j.png": "/jackiedong6/PersonalWebsite/static/media/logo-j.f5c3380c6c63d9f0bfb9.png",
+    "static/media/logo_sub-01.png": "/jackiedong6/PersonalWebsite/static/media/logo_sub-01.4a7fbc3b2a405b2f94c1.png",
+    "static/media/helvetica-neu.ttf": "/jackiedong6/PersonalWebsite/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/jackiedong6/PersonalWebsite/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/jackiedong6/PersonalWebsite/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/jackiedong6/PersonalWebsite/index.html",
+    "main.8fd2a10e.css.map": "/jackiedong6/PersonalWebsite/static/css/main.8fd2a10e.css.map",
+    "main.d9a9207d.js.map": "/jackiedong6/PersonalWebsite/static/js/main.d9a9207d.js.map",
+    "787.a2cb61a6.chunk.js.map": "/jackiedong6/PersonalWebsite/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6be9173.css",
-    "static/js/main.8c102484.js"
+    "static/css/main.8fd2a10e.css",
+    "static/js/main.d9a9207d.js"
   ]
 }
